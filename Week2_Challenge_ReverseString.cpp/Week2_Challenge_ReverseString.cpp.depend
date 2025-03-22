@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1742601485 source:c:\users\henok\desktop\dsa-lab-challenges\week2_challenge_reversestring.cpp\main.cpp
+	<iostream>
+	<vector>
+
